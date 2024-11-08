@@ -1,16 +1,39 @@
-# foodie
 
-A new Flutter project.
+# Foodie
 
-## Getting Started
+A mobile application built using Flutter for ordering a variety of food items, showcasing each item's price and description. This project offers a simple and user-friendly interface for browsing food items, viewing their details, and placing orders.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Food Item List**: Displays a list of food items with images, names, prices, and brief descriptions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Detailed View**: Each item has a dedicated page with detailed descriptions, images, and options for adding to cart.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Cart Management**: Add or remove items from the cart and view the total price before placing an order.
+
+- **Order History**: View past orders and details.
+
+- **Responsive UI**: Adaptive layouts for a seamless experience across various screen sizes.
+
+## Screenshots
+
+| Feature       | Preview                    |
+|---------------|----------------------------|
+| Home Screen   | ![Home](assets\images\f1.jpg) |
+| Home Screen   | ![Home](assets\images\f2.jpg) |
+| Description   | ![Description](assets\images\f3.jpg) |
+| Drawer   | ![Drawer](assets\images\f4.jpg) |
+
+
+## Technologies Used
+
+- **Flutter**: Front-end framework for creating a cross-platform mobile app.
+
+- **Dart**: Programming language used with Flutter.
+
+## Future Enhancements
+
+- Adding payment gateway integration.
+- User reviews and ratings for each item.
+- Real-time order tracking.
+
